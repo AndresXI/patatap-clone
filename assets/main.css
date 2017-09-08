@@ -1,0 +1,17 @@
+
+
+canvas {
+  height: inherit;
+  width: 100%;
+  background: black;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+input {
+  color: white;
+  background: white;
+}
